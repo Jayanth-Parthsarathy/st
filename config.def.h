@@ -6,7 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "JetBrainsMono NerdFont:pixelsize=18:antialias=true:autohint=true";
-static char *font2[] = { "notoemoji:pixelsize=18:antialias=true:autohint=true",};
+static char *font2[] = { "notoemoji:pixelsize=18:antialias=true:autohint=true"};
 static int borderpx = 13;
 
 /*
@@ -106,7 +106,7 @@ char *termname = "st-256color";
  */
 unsigned int tabspaces = 8;
 
-#include "mocha.h"
+#include "gruvbox.h"
 
 /*
  * https://invisible-island.net/xterm/ctlseqs/ctlseqs.html#h4-Functions-using-CSI-_-ordered-by-the-final-character-lparen-s-rparen:CSI-Ps-SP-q.1D81
