@@ -106,7 +106,7 @@ char *termname = "st-256color";
  */
 unsigned int tabspaces = 8;
 
-#include "mocha.h"
+#include "ayu.h"
 
 /*
  * https://invisible-island.net/xterm/ctlseqs/ctlseqs.html#h4-Functions-using-CSI-_-ordered-by-the-final-character-lparen-s-rparen:CSI-Ps-SP-q.1D81
